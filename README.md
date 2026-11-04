@@ -4,7 +4,7 @@ A mobile game prototype: you play CRANK, a junkyard villain who smashes the city
 
 **Play:** https://chrisli328.github.io/grow-robot-arms/
 
-**Gameplay video (1 minute, vertical):** https://chrisli328.github.io/grow-robot-arms/video/grow-robot-arms.mp4
+**Gameplay video (1 minute, vertical):** https://chrisli328.github.io/grow-robot-arms/video/
 
 Best on a phone held upright. On a computer, drag with the mouse or use WASD. Add `?reset=1` to the address to start over from the beginning.
 
